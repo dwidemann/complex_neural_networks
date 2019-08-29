@@ -4,16 +4,20 @@ The purpose of this repo is build neural networks that take complex valued data,
 
 This code uses the complex tensor built William Falcon. Be careful to read his description of the tensor and what operations are supported. The readme is under **pytorch_complex_tensor**.
 
-### TO RUN
+####
+ TO RUN
 
 
 
 * This notebook shows how to do operations and complex tensor. It's mostly a tutorial.
 ```python
 cd notebooks
-jupyter lab MetaClassWrapper.ipynb.
+jupyter lab complexLayer.ipynb.
 ```
-complex_convolution.ipynb notebook shows the basics for complex tensors. Ignore the code for complex convolution. It's wrong, I'll cut it later.  
+We need to write a complex relu before we can build models. 
 
-### Note
-I included the Falcon's complex tensor repo in ours because I thought we may need to modify it. If we don't need to change it, he has a pip install that may be better to use.
+### Notes:
+  - I included the Falcon's complex tensor repo in ours because I thought we may need to modify it. If we don't need to change it, he has a pip install that may be better to use.
+  
+
+
