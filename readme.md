@@ -12,7 +12,7 @@ This code uses the complex tensor built William Falcon. Be careful to read his d
 * This notebook shows how to do operations and complex tensor. It's mostly a tutorial.
 ```python
 cd notebooks
-jupyter lab complexLayer.ipynb.
+jupyter lab complexLayer.ipynb
 ```
 We need to write a complex relu before we can build models. 
 
