@@ -99,7 +99,7 @@ class complexDataset(Dataset):
     def __getitem__(self, idx):
         X,y = self.data[idx]
         X = X.astype('float32')
-        y = torch.from_numpy(np.array(y))
+        y = torch.from_numpy(np.array([y]))
 
         if len(X.shape) == 2:
             X = np.expand_dims(X,axis=0)
