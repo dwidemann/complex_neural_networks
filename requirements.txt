@@ -6,7 +6,7 @@ cffi==1.11.5
 chardet==3.0.4
 conda==4.6.2
 conda-build==3.17.8
-cryptography==2.5
+cryptography==3.2
 decorator==4.3.2
 filelock==3.0.10
 glob2==0.6
