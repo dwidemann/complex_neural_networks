@@ -22,7 +22,7 @@ lief==0.9.0
 MarkupSafe==1.1.0
 mkl-fft==1.0.10
 mkl-random==1.0.2
-numpy==1.17.0
+numpy==1.22.0
 parso==0.3.2
 pexpect==4.6.0
 pickleshare==0.7.5
@@ -55,7 +55,7 @@ wcwidth==0.1.7
 wget==3.2
 
 
-numpy==1.17.0
+numpy==1.22.0
 Pillow==6.1.0
 pytorch-complex-tensor==0.0.134
 six==1.12.0
