@@ -18,7 +18,7 @@ jedi==0.13.2
 Jinja2==2.10
 joblib==0.13.2
 libarchive-c==2.8
-lief==0.9.0
+lief==0.12.2
 MarkupSafe==1.1.0
 mkl-fft==1.0.10
 mkl-random==1.0.2
